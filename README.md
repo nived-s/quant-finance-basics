@@ -1,3 +1,2 @@
-# Learning quant-finance
-
+# Basics of quant-finance
 
